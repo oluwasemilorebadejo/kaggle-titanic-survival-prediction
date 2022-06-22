@@ -28,7 +28,7 @@ Matplotlib is a comprehensive data visualization tool used to create static, ani
 
 Scikit-Learn: Instead of building machine learning models from scratch, Scikit-Learn makes it easy to use classical models in a few lines of code. This tool is adapted by almost the whole of the ML community and industries, from the startups to the big techs.
 
-# Observations:
+# Observations
 
 1) By taking a look at the data description, I observed that it would be better to add the SibSp and Parch variables and I was right. The new RelativesOnBoard variable has more feature importance that the SibSp and Parch variable.
 
